@@ -18,6 +18,7 @@ Bu sözlük; üniversite öğrencileri, sektöre yeni giren geliştiriciler, mü
 - [DevOps & Sunucu](#devops--sunucu)
 - [Yasal & Uyumluluk](#yasal--uyumluluk)
 - [İçerik & Tasarım](#i̇çerik--tasarım)
+- [Makaleler](#makaleler)
 - [Katkı](#katkı)
 
 ---
@@ -625,6 +626,10 @@ Bir işlem devam ederken gösterilen geri bildirim (spinner, skeleton, progress 
 Sayfa üstüne açılan, kullanıcının onayını veya bilgisini bekleyen pencere. Kapatma, kaçış tuşu, dış tıklama davranışları net olmalıdır.
 
 ---
+
+## Makaleler
+
+- [Site sahipleri için 20 terim: alan adı, e-posta, güvenlik ve arama motoru](docs/site-sahipleri-icin-20-terim.md) — DNS kayıtları, SPF/DKIM/DMARC, hazırlık ortamı, noindex, yumuşak 404, iki adımlı doğrulama
 
 ## Katkı
 
